@@ -20,7 +20,7 @@
   - 🌱 I’m interested in Javascript.
   - 🤝 I’m looking to collaborate on web projects.
   - 💬 Ask me about Web Technologies.
-  - - 📫 How to reach me
+  - 📫 How to reach me
   - - linkedin account https://www.linkedin.com/in/mohamedtharwat000/
   - - email mohamed.sarwat.000@gmail.com
 
