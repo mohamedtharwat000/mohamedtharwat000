@@ -16,11 +16,12 @@
 
 ###
 
-  - 👀 I’m learning Frontend Web Development.<br>
-  - 🌱 I’m interested in Javascript.<br>
-  - 🤝 I’m looking to collaborate on web projects.<br>
-  - 💬 Ask me about Web Technologies.<br>- 📫 How to reach me <br>
-  - - linkedin account https://www.linkedin.com/in/mohamedtharwat000/<br>
+  - 👀 I’m learning Frontend Web Development.
+  - 🌱 I’m interested in Javascript.
+  - 🤝 I’m looking to collaborate on web projects.
+  - 💬 Ask me about Web Technologies.
+  - - 📫 How to reach me
+  - - linkedin account https://www.linkedin.com/in/mohamedtharwat000/
   - - email mohamed.sarwat.000@gmail.com
 
 ###
