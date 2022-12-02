@@ -25,6 +25,7 @@
   - - email mohamed.sarwat.000@gmail.com
 
 ###
+<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
