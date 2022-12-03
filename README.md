@@ -15,8 +15,8 @@
   <li>💬 Ask me about Web Technologies.</li>
   <li>📫 How to reach me
     <ul>
-      <li>- https://www.linkedin.com/in/mohamedtharwat000/</li>
-      <li>- mohamed.sarwat.000@gmail.com</li>
+      - https://www.linkedin.com/in/mohamedtharwat000/
+      - mohamed.sarwat.000@gmail.com
     </ul>
   </li>
 </ul>
