@@ -7,8 +7,8 @@
 <h2>About me</h2>
 
 <ul>
-  <li>👀 I’m learning Software Development.</li>
-  <li>🌱 I’m loving Javascript.</li>
+  <li>🌱 I’m learning Software Development.</li>
+  <li>❤️ I’m loving Javascript.</li>
   <li>🤝 I’m looking to collaborate on web projects.</li>
   <li>💬 Ask me about Web Technologies.</li>
   <li>📫 How to reach me
