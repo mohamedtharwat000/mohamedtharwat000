@@ -2,7 +2,7 @@
 
 <h1>Hey 👋 What's up?</h1>
 
-<p>My name is omar adel and I'm a Frontend Web Developer from Egypt</p>
+<p>My name is Mohamed Tharwat and I'm a Frontend Web Developer from Egypt</p>
 
 <h2>About me</h2>
 
