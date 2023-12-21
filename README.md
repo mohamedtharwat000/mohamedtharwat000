@@ -30,7 +30,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtharwat000&show_icons=true&locale=en&layout=compact" alt="mohamedtharwat000" />
+
 ---
 
 ## Let's Connect!
