@@ -28,9 +28,11 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtharwat000&show_icons=true&locale=en&layout=compact" alt="mohamedtharwat000" />
 ---
+
 ## Let's Connect!
 
 Please feel free to explore my repositories and reach out to me. I'm always open to exciting opportunities, collaborations, and discussions. Let's build a tech-filled future together! 🚀
