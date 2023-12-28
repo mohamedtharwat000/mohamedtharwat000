@@ -1,15 +1,13 @@
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedtharwat000&label=Profile%20views&color=0e75b6&style=flat)
-
 ## 👋 Hello, I'm Mohamed Tharwat!
 
-### I am a passionate and detail-oriented Software Engineer based in Egypt.
+### I am a passionate and detail-oriented Software Engineer from Egypt.
 - 🌱 Currently exploring the depths of Software Engineering, striving for excellence in every line of code.
 - 🚀 Proficient in crafting powerful web applications using the versatility of JavaScript.
 - 🤝 Open to collaborations on impactful projects; let's create something extraordinary!
 - 💬 Tech enthusiast, always up for discussing the latest trends and innovations.
 
 ---
+
 ### Languages & Frameworks
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -31,13 +29,12 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtharwat000&show_icons=true&locale=en&layout=compact" alt="mohamedtharwat000" />
-
----
-
 ## Let's Connect!
 
 Please feel free to explore my repositories and reach out to me. I'm always open to exciting opportunities, collaborations, and discussions. Let's build a tech-filled future together! 🚀
 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.sarwat.000@gmail.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedtharwat000/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.sarwat.000@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/975045569393340506/)
+[![X](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white)](https://twitter.com/MoTharwat000/)
+
