@@ -1,6 +1,6 @@
 ## Hello, I'm Mohamed Tharwat!
 
-### I am a passionate and detail-oriented Software Engineer from Egypt.
+### I am a passionate and detail-oriented Software Developer from Egypt.
 - Currently exploring the depths of Software Engineering, striving for excellence in every line of code.
 - Proficient in crafting powerful web applications using the versatility of JavaScript.
 - Open to collaborations on impactful projects; let's create something extraordinary!
