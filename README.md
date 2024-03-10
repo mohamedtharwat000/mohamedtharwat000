@@ -1,6 +1,8 @@
-## Hello, I'm Mohamed Tharwat!
+---
 
-### A Passionate and Detail-Oriented Software Developer from Egypt
+# Hello, I'm Mohamed Tharwat!
+
+### A Passionate Software Developer from Egypt
 
 - Currently exploring the depths of Software Engineering, striving for excellence in every line of code.
 
@@ -33,9 +35,11 @@
 
 ---
 
-## Let's Connect!
+### Let's Connect!
 
-📫 Feel free to explore my repositories and reach out to me. I'm always open to exciting opportunities, collaborations, and discussions. Let's build a tech-filled future together!
+Feel free to explore my repositories and reach out to me. I'm always open to exciting opportunities, collaborations, and discussions. Let's build a tech-filled future together!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.sarwat.000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedtharwat000)
+
+---
