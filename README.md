@@ -1,7 +1,8 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=mohamedtharwat000)
 
 # Hi there, I'm Mohamed Tharwat!
-Passionate software engineer with a love for problem-solving. I thrive in collaborative environments and enjoy building web applications that make a positive impact.
+
+Passionate software engineer with a love for problem-solving and building applications that make a positive impact.
 
 ## Skills & Technologies 
 
