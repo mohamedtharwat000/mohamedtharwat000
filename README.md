@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mohamed Tharwat!
 
-Passionate software engineer with a love for problem-solving and building applications that make a positive impact.
+software engineer with a passion for problem-solving and building applications that make a positive impact.
 
 ## Skills & Technologies 
 
@@ -13,5 +13,3 @@ Passionate software engineer with a love for problem-solving and building applic
 
 Feel free to explore my repositories and reach out to me. I'm always open to exciting opportunities, collaborations, and discussions.
 Let's build a tech-filled future together.
-
-[Mohamed Tharwat](https://github.com/mohamedtharwat000)
