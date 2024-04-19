@@ -1,4 +1,6 @@
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=mohamedtharwat000)
+![Profile Views](https://komarev.com/ghpvc?username=mohamedtharwat000)
+
+
 
 # Hi there, I'm Mohamed Tharwat!
 
