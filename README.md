@@ -8,7 +8,7 @@ software engineer with a passion for problem-solving and building applications t
 
 ## Skills & Technologies 
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,c,python,redis,mysql,mongodb,html,css,sass,bootstrap,tailwind,jquery,javascript,typescript,react,nodejs,express,jest,npm)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,c,python,redis,mysql,mongodb,html,css,sass,bootstrap,tailwind,jquery,javascript,typescript,react,nodejs,express,npm)
 
 
 ## Let's Connect!
