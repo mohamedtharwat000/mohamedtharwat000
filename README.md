@@ -5,7 +5,7 @@
 
 # Hi there, I'm Mohamed Tharwat!
 
-software engineer with a passion for problem-solving and building applications that make a positive impact.
+Software Developer with a passion for continuous learning, professional growth, and a solid foundation in frontend and backend technologies.
 
 ## Skills & Technologies 
 
