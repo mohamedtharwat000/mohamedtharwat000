@@ -7,7 +7,7 @@ Software Developer with a passion for continuous learning, professional growth, 
 
 ## Skills & Technologies 
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,c,python,redis,mysql,mongodb,html,css,sass,bootstrap,tailwind,jquery,javascript,typescript,react,nodejs,express,npm)
+![Skills](https://skillicons.dev/icons?i=git,github,linux,c,python,javascript,typescript,nodejs,express,react,redux,npm,pnpm,yarn,vite,html,css,sass,jquery,bootstrap,tailwind,md,regex,mysql,mongodb,redis)
 
 
 ## Let's Connect!
